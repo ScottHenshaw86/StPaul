@@ -3,7 +3,7 @@ This is an online, interactive reimagining of a print brochure. Numerous CSS ani
 
 ## Demo
 check it out at ddfghrsdfdgtrf.com!
-[![International School Brochure Demo](demo/internationalSchoolBrochureDemo.gif)]
+<kbd><img src="/demo/internationalSchoolBrochureDemo.gif" /></kbd>
 
 ## Technologies Used
 * HTML
