@@ -3,7 +3,7 @@ This is an online, interactive reimagining of a print brochure. Numerous CSS ani
 
 ## Demo
 check it out at www.scotthenshaw.online/stpaul.html!
-<kbd><img src="/demo/internationalSchoolBrochureDemo.gif" /></kbd>
+<img src="/demo/internationalSchoolBrochureDemo.gif" />
 
 ## Technologies Used
 * HTML
